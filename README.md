@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an iOS Engineer with +7 years of experience currently building safe and secure Pay Later Experience at [Tabby](https://tabby.ai/).
+I am an iOS Engineer with +9 years of experience currently building safe and secure Pay Later Experience at [Tabby](https://tabby.ai/).
 
 In the past, I worked at [Pure](https://pure.app), [Meditation & Sleep](https://momeditation.app), and on [these projects](https://pyshnovt.github.io/assets/CV-Tim-Pyshnov.pdf).
 
